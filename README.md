@@ -4,7 +4,7 @@
 
 ## 概述
 
-本仓记录搜索工程的近景规划，正文见 [`intro/index.md`](intro/index.md)；维护规范见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
+本仓记录搜索工程的近景规划：当前优先见 [`intro/index.md`](intro/index.md)，排法见 [`intro/ordering.md`](intro/ordering.md)；维护规范见 [`CONTRIBUTING.md`](CONTRIBUTING.md)。
 
 ## 许可
 
